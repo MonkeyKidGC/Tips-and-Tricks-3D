@@ -7,3 +7,7 @@ Tips and Tricks: Unity Rigidbody Velocity - https://www.monkeykidgc.com/2021/01/
 
 
 Tips and Tricks: Unity Rigidbody AddForce - https://www.monkeykidgc.com/2021/01/unity-rigidbody-addforce.html
+
+Tips and Tricks: Unity Transparent Material - https://www.monkeykidgc.com/2021/01/unity-transparent-material.html
+
+Tips and Tricks: Unity Cube Color - https://www.monkeykidgc.com/2021/01/unity-cube-color-tutorial.html
